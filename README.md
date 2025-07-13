@@ -81,14 +81,6 @@ This project dives into YouTube video comment data to perform sentiment analysis
 
 ---
 
-## **Future Enhancements**  
-- Use VADER or Transformers for deeper NLP  
-- Add time-based comment trend analysis  
-- Deploy as a Streamlit web app for interactivity  
-- Build category-specific engagement dashboards  
-
----
-
 ## **Author**  
 - **Priyanshu Kumar Sahu** – [GitHub Profile](https://github.com/kumarsahup07)
 
