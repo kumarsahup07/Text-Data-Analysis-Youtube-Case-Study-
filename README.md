@@ -2,7 +2,7 @@
 
 Completed a hands-on project using Pandas, TextBlob, Seaborn & Matplotlib for natural language processing (NLP), emoji frequency analysis, and user engagement insights on YouTube comment data.  
 
-![YouTube Comments Dashboard]([https://raw.githubusercontent.com/your-username/your-repo/main/your-image-name.png](https://github.com/kumarsahup07/Text-Data-Analysis-Youtube-Case-Study-/blob/main/ChatGPT%20Image%20Jul%2013%2C%202025%2C%2002_53_29%20PM.png))
+![YouTube Comments Dashboard](https://github.com/kumarsahup07/Text-Data-Analysis-Youtube-Case-Study-/blob/main/yt_case.png?raw=true)
 
 ---
 ## **Overview**  
