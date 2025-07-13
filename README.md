@@ -5,7 +5,9 @@ Completed a hands-on project using Pandas, TextBlob, Seaborn & Matplotlib for na
 ![YouTube Comments Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/your-image-name.png)
 
 ---
-
+##  Data Collection
+- Dataset Source - [G-drive](https://drive.google.com/drive/folders/1makDwgfKzmqOSikEnOLkmMskT3609dAo)
+---
 ## **Overview**  
 This project dives into YouTube video comment data to perform sentiment analysis, emoji analysis, and audience engagement scoring across various video categories. It reveals viewer emotions, popular emojis, and categories with the most engagement.
 
